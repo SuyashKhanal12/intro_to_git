@@ -1,4 +1,4 @@
 def square(x):
     y = x * x
-    return z
+    return y
 print(square(4))
