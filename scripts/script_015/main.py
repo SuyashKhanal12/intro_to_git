@@ -1,3 +1,3 @@
 lst = []
-lst.apend(5)
+lst.append(5)
 print(lst)
